@@ -1,6 +1,6 @@
 body
 {
-    color: green;
+    color: black
     text-align: center;
     font-family: Arial;
     font-size: 20px;
@@ -17,6 +17,6 @@ body
 }
 #container h1
 {
-    color: grey;
+    color: black;
     font-size: 50px;
 }
