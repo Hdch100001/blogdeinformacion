@@ -1,6 +1,10 @@
 body
 {
+<<<<<<< HEAD
     color: rgb(18, 18, 51)
+=======
+    color: rgba(128, 128, 128, 0.137)
+>>>>>>> cabecera
     text-align: center;
     font-family: arial;
     font-size: 20px;
