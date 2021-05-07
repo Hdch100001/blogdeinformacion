@@ -10,4 +10,4 @@ Blog de información sobre nuestra sociedad, para curso de git y github
 
 # blogdeinformacion
 Sé parte de la iniciativa
-Incluye tus propuestas 
+Incluye tus propuestas sea cual sea tu edad
